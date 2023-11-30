@@ -1,0 +1,129 @@
+[
+    {
+        "userId":1,
+        "username": "bibhashhalder0104",
+        "password": "2#@bibhASH32$3",
+        "fullName":{
+            "firstName":" Bibhash",
+            "lastName": "Halder"
+        },
+        "age":35,
+        "email": "halderbibhash80@gmail.com",
+        "isActive":true,
+        "hobbies":["reading", "gaming","singing"],
+        "address":{
+            "street":"Khulna shib bari morr",
+            "city": "Khulna",
+            "country":"bangladesh"
+        }
+    },
+    {
+        "userId":2,
+        "username": "pobitro_mondol",
+        "password": "#$%FGHFGN75658",
+        "fullName":{
+            "firstName":" Pobitro",
+            "lastName": "Mondol"
+        },
+        "age":38,
+        "email": "pobitromondol123@gmail.com",
+        "isActive":true,
+        "hobbies":["teaching", "leading","singing"],
+        "address":{
+            "street":"Sat rastar morr",
+            "city": "Khulna",
+            "country":"bangladesh"
+        }
+    },
+    {
+        "userId":3,
+        "username": "diliphalder",
+        "password": "&&1^67DIlip##",
+        "fullName":{
+            "firstName":" Dilip",
+            "lastName": "Halder"
+        },
+        "age":34,
+        "email": "diliphalder180@gmail.com",
+        "isActive":true,
+        "hobbies":["gardening", "gaming","singing"],
+        "address":{
+            "street":"Khulna shib bari morr",
+            "city": "Khulna",
+            "country":"bangladesh"
+        }
+    },
+    {
+        "userId":4,
+        "username": "debrotosana",
+        "password": "2#@bibhASH32$3",
+        "fullName":{
+            "firstName":" Debroto",
+            "lastName": "sana"
+        },
+        "age":35,
+        "email": "debrotosana@gmail.com",
+        "isActive":true,
+        "hobbies":["riding", "gaming","singing"],
+        "address":{
+            "street":"112 uttora, dhaka",
+            "city": "Dhake",
+            "country":"bangladesh"
+        }
+    },
+    {
+        "userId":5,
+        "username": "debashish_shana",
+        "password": "troighjgh456fgh",
+        "fullName":{
+            "firstName":" Debashish",
+            "lastName": "Sana"
+        },
+        "age":40,
+        "email": "debashishshana021@gmail.com",
+        "isActive":true,
+        "hobbies":["traveling", "gardening","singing"],
+        "address":{
+            "street":"Gazipur road",
+            "city": "Gazipur",
+            "country":"bangladesh"
+        }
+    },
+    {
+        "userId":6,
+        "username": "bikashsana",
+        "password": "2#@bibhASH32$3",
+        "fullName":{
+            "firstName":" Bikash",
+            "lastName": "Sana"
+        },
+        "age":46,
+        "email": "bikashsana@gmail.com",
+        "isActive":true,
+        "hobbies":["traveling", "leading","singing"],
+        "address":{
+            "street":"Azimpur road",
+            "city": "Dhake",
+            "country":"bangladesh"
+        }
+    },
+    {
+        "userId":7,
+        "username": "rupantorsana",
+        "password": "2#@bibhASH32$3",
+        "fullName":{
+            "firstName":" Bibhash",
+            "lastName": "Halder"
+        },
+        "age":32,
+        "email": "rupantorsana@gmail.com",
+        "isActive":true,
+        "hobbies":["reading", "gaming","singing"],
+        "address":{
+            "street":"117 Mirpur road",
+            "city": "Dhake",
+            "country":"bangladesh"
+        }
+    }
+    
+]

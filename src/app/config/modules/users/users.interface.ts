@@ -1,4 +1,4 @@
-import { Schema, model, connect } from 'mongoose';
+
 export type Order ={
     productName:string;
     price:number;
@@ -15,7 +15,7 @@ export type Address ={
 }
 export type Users= {
     userId:number;
-    userName:string;
+    username:string;
     password:string;
     fullName:FullName;
     age:number;
